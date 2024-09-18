@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Retail sales data exploration using SQL Analysis  
+**Project Title**: Retail sales data exploration using SQL  
 **Database**: `PORTFOLIO PROJECT`
 
 This project showcases my SQL skills and techniques to explore, clean, and analyze retail sales data as a data analyst. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
