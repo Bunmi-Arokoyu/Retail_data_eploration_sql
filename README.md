@@ -5,7 +5,7 @@
 **Project Title**: Retail sales data exploration using SQL Analysis  
 **Database**: `PORTFOLIO PROJECT`
 
-This project demonstrates my SQL skills and techniques to explore, clean, and analyze retail sales data as a data analyst. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+This project showcases my SQL skills and techniques to explore, clean, and analyze retail sales data as a data analyst. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
 ## Objectives
 
@@ -199,14 +199,8 @@ WHERE rank =1;
 - **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
 - **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
 
-
 ## Conclusion
 The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
-
-
-## Author - Zero Analyst
-
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ### End of Project
 
